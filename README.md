@@ -10,6 +10,8 @@ All project runs and further details can be viewed in the Wandb public report av
 
 https://wandb.ai/mth-lima/nyc_airbnb/reports/Report-for-the-NYC-Airbnb-Dataset-Udacity-Project--VmlldzoxMTExMDY5Ng?accessToken=66fmp7lbk1hlp2mathbvlf94tzej9s6ysm86vpcya50jg4ko8gq973h3m8wahak6
 
+The project could not be made public in W&B, so the link above contains all the information related to the executed runs and past experiments for the project submission.
+
 ## Table of contents
 
 - [Introduction](#build-an-ML-Pipeline-for-Short-Term-Rental-Prices-in-NYC)
